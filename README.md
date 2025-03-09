@@ -3,6 +3,7 @@ add e-shop url in urls.txt
 1 url per line
 
 sample:
+<code>
 https://eshop-prices.com/games/1966-dragon-s-dogma-dark-arisen?currency=THB
 https://eshop-prices.com/games/5425-monster-hunter-rise?currency=THB
 https://eshop-prices.com/games/1270-xenoblade-chronicles-2-torna-the-golden-country?currency=THB
@@ -24,3 +25,4 @@ https://eshop-prices.com/games/3068-final-fantasy-viii-remastered?currency=THB
 https://eshop-prices.com/games/10083-crisis-core-final-fantasy-vii-reunion?currency=THB
 https://eshop-prices.com/games/2175-final-fantasy-ix?currency=THB
 https://eshop-prices.com/games/2153-chocobo-s-mystery-dungeon-every-buddy?currency=THB
+</code>
