@@ -2,7 +2,7 @@ add e-shop url in urls.txt
 
 1 url per line
 
-sample:
+sample urls.txt:
 <code>
 https://eshop-prices.com/games/1966-dragon-s-dogma-dark-arisen?currency=THB
 https://eshop-prices.com/games/5425-monster-hunter-rise?currency=THB
